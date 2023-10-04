@@ -36,3 +36,18 @@
 ### 25 Sep 2023
 
 * *1.5 hours* Read more about project requirements, cloned GitHub repository, copied over the sample project and filled in the timelog
+
+### 27 Sep 2023
+
+* *0.75 hours* Read scientific papers
+
+## Week 3
+
+### 3 Oct 2023
+
+* *1.25 hours* Installed and setup Zotero, read scientific papers
+
+### 4 Sep 2023
+
+* *1.25 hours* Reading scientific papers
+* *0.25 hours* Set up issues on GitHub
