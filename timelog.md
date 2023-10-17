@@ -49,5 +49,31 @@
 
 ### 4 Sep 2023
 
-* *1.25 hours* Reading scientific papers
+* *1.25 hours* Read scientific papers
 * *0.25 hours* Set up issues on GitHub
+
+### 5 Sep 2023
+
+* *1 hour* Met with the supervisor
+
+## Week 4
+
+### 10 Oct 2023
+
+* *1.5 hours* Setup the reading of files and started working on the baseline models
+
+### 11 Sep 2023
+
+* *1.25 hours* Read research papers
+* *2.5 hours* Continued working on the baseline models, almost finished with a few problems
+
+### 5 Sep 2023
+
+* *0.5 hour* Read more about mL models and MFCC (Mel-frequency ceptstrum coefficients)
+* *1 hour* Met with the supervisor
+
+## Week 5
+
+### 17 Oct 2023
+
+* *0.75 hours* Tidied up the GitHub repository, created some issues and filled in the timelog ("basic housekeeping")
