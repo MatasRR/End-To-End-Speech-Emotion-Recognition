@@ -128,15 +128,14 @@
 ### 16 Nov 2023
 
 * *0.5 hour* Continued reading
-* *3 hours* Carried out experiments on smaller audio feature sets
-SUPERVISOR???????????????????????
+* *3 hours* Carried out experiments on smaller audio feature sets, sent a summary email to supervisor instead of meeting
 
 ## Week 10
 
 ### 23 Nov 2023
 
 * *2 hours* Created an extractor and conducted evalations on feature sets
-SUPERVISOR???????????????????????
+* *0.5 hour* Met with the supervisor
 
 ## Week 11
 
@@ -224,5 +223,11 @@ SUPERVISOR???????????????????????
 
 ### 14 Feb 2024
 
-* *1.5 hour* Adjusted spectrogram FFT frame size to fit human speech (20-30 ms)
-* *1.5 hour* Filled in the timelog from notes to the file
+* *1.5 hours* Adjusted spectrogram FFT frame size to fit human speech (20-30 ms)
+* *1.5 hours* Filled in the timelog from notes to the file
+* *1 hour* Filled in the missing semester 1 meeting minutes from notes to Moodle
+
+### 8 Feb 2024
+
+* *4 hours* Cleaned up the code, added audio augmentation (cropping & noise)
+* *1 hour* Met with supervisor
