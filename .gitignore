@@ -162,3 +162,7 @@ cython_debug/
 # Project-specific extensions
 *.csv
 *.wav
+*.pdf
+
+src/model_checkpoints/
+src/runs/
