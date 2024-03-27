@@ -227,7 +227,87 @@
 * *1.5 hours* Filled in the timelog from notes to the file
 * *1 hour* Filled in the missing semester 1 meeting minutes from notes to Moodle
 
-### 8 Feb 2024
+### 15 Feb 2024
 
 * *4 hours* Cleaned up the code, added audio augmentation (cropping & noise)
 * *1 hour* Met with supervisor
+
+## Week 7 –––––––––––––––––––––––––––––––––––––––
+
+### 22 Feb 2024
+* *1.5 hours* Written dissertation structure
+* *0.5 hour* Met with supervisor
+
+## Week 8
+
+### 27 Feb 2024
+* *0.5 hour* Read example dissertations from the Hall of Fame
+* *1 hour* Worked on Introduction
+
+### 29 Feb 2024
+* *2 hours* Worked on Implementation
+* *0.5 hour* Met with supervisor
+
+## Week 9
+
+### 4 Mar 2024
+* *1.5 hours* Worked on Implementation
+
+### 5 Mar 2024
+* *2 hours* Worked on Background
+* *0.5 hour* Read example dissertations from the Hall of Fame
+
+### 6 Mar 2024
+* *1 hour* Worked on Background
+* *2 hours* Worked on Implementation
+
+### 7 Mar 2024 ––––––––––––––––––––––––––––––––
+* *2 hours* Worked on Implementation
+* *1 hour* Worked on Background
+* *0.5 hour* Met with supervisor
+
+### 10 Mar 2024
+* *2 hours* Worked on Background
+* *0.5 hour* Worked on Introduction
+
+## Week 10
+
+### 11 Mar 2024
+* *1 hours* Worked on Background
+
+### 12 Mar 2024
+* *0.5 hour* Read example dissertations from the Hall of Fame
+* *0.5 hour* Worked on Evaluation
+* *2 hours* Written code to conduct experiments for evaluation
+
+### 13 Mar 2024
+* *1.5 hours* Written code to conduct experiments for evaluation
+* *3 hours* Worked on Evaluation
+
+### 14 Mar 2024
+* *3 hours* Worked on Evaluation
+* *0.5 hour* Met with supervisor
+
+### 16 Mar 2024
+* *3.5 hours* Worked on Implementation
+
+## Week 11
+
+### 18 Mar 2024
+* *3 hours* Worked on Implementation
+
+### 24 Mar 2024
+* *2 hours* Worked on Design
+
+## Week 12 (Extension week)
+
+### 25 Mar 2024
+* *2 hours* Filled in some missing pieces in the dissertation
+* *1.5 hours* Fixed data splitting in code
+* *1 hour* Written a hyperparameter result table visualisation function
+* *1 hour* Worked on Design
+
+### 26 Mar 2024
+* *2 hours* Worked on Implementation
+* *0.5 hour* Worked on Design
+* *1 hour* Worked on Background
